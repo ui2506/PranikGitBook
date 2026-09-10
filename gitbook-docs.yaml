@@ -1,0 +1,33 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: PranikSL
+  structure:
+    - type: section
+      key: section-2
+      title: О проекте
+      path: o-proekte
+      description: ""
+      default: true
+      children:
+        - type: space
+          key: space-2
+          title: О проекте
+          path: landing-page
+          default: true
+          content:
+            directory: ./o-proekte/landing-page
+    - type: section
+      key: section-1
+      title: NoRules
+      path: norules
+      description: ""
+      icon: book-blank
+      children:
+        - type: space
+          key: space-1
+          title: NoRules
+          path: documentation
+          default: true
+          content:
+            directory: ./norules/documentation
+            language: ru
