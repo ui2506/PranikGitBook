@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Правила сервера](README.md)
+* [О сервере](README.md)
 
 ## Плагины сервера
 
