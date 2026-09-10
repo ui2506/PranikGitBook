@@ -26,10 +26,18 @@
   * [SCP-1162](scp/kastomnye-scp-predmety/scp-1162.md)
   * [SCP-1499](scp/kastomnye-scp-predmety/scp-1499.md)
 
-## Group 1
+## XP-система
 
-* [Кастомные предметы](group-1/kastomnye-predmety.md)
-* [Отряды](group-1/otryady.md)
-* [Система отрядов](group-1/sistema-otryadov.md)
-* [XP система и магазин](group-1/xp-sistema-i-magazin.md)
-* [Выбор роли в начале раунда](group-1/vybor-roli-v-nachale-raunda.md)
+* [XP система и магазин](xp-sistema/xp-sistema-i-magazin.md)
+* [Игровой магазин](xp-sistema/igrovoi-magazin.md)
+* [Достижения](xp-sistema/dostizheniya.md)
+
+***
+
+* [Отряды](otryady.md)
+* [Выбор роли в начале раунда](vybor-roli-v-nachale-raunda.md)
+* [Система отрядов](sistema-otryadov.md)
+* [Кастомные предметы](kastomnye-predmety.md)
+* [Взаимодействие выстрелом](vzaimodeistvie-vystrelom.md)
+* [Чат-система](chat-sistema.md)
+* [Остальное](ostalnoe.md)
